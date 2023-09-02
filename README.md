@@ -1,4 +1,10 @@
-# powerbi_ecommerce_sales_store_dashboard
-Ecommerce Sales Store Dashboard using PowerBi
+# 1. Ecommerce Sales Store Dashboard
+![Dashboard](https://github.com/saadakhtarse/powerbi_projects/assets/98681830/f618c213-e926-476f-a2b0-9b6e1d35c90a)
 
-[Ecommerce Sales Store Dashboard.pdf](https://github.com/saadakhtarse/powerbi_ecommerce_sales_store_dashboard/files/12504479/Ecommerce.Sales.Store.Dashboard.pdf)
+
+# 2. HR Analytic Dashboard
+![Dashboard](https://github.com/saadakhtarse/powerbi_projects/assets/98681830/b1b39d84-9716-4066-971b-34a306cfd6a9)
+
+
+# 3. SuperStore
+![Dashbaord](https://github.com/saadakhtarse/powerbi_projects/assets/98681830/ddb10cea-a17c-4d8e-a0a4-d6fdab9614bd)
